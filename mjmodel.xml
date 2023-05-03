@@ -1,0 +1,47 @@
+<mujoco model="MuJoCo Model">
+  <compiler angle="radian" autolimits="true"/>
+  <option timestep="0.001" viscosity="10" integrator="implicit">
+    <flag contact="disable" gravity="disable"/>
+  </option>
+  <statistic meansize="0.05"/>
+  <default class="main">
+    <joint damping="0.0001"/>
+    <site size="0.012 0.012 0.012" type="box" rgba="0.7 0.7 0.8 1"/>
+    <default class="translation">
+      <general ctrlrange="-0.25 0.25" biastype="affine" gainprm="100 0 0 0 0 0 0 0 0 0" biasprm="0 -100 -10 0 0 0 0 0 0 0"/>
+    </default>
+    <default class="rotation">
+      <general ctrlrange="-1.571 1.571" biastype="affine" gainprm="0.5 0 0 0 0 0 0 0 0 0" biasprm="0 -0.5 -0.05 0 0 0 0 0 0 0"/>
+    </default>
+  </default>
+  <worldbody>
+    <geom size="0.25 0.25 0.01" pos="0 0 -0.01" type="box"/>
+    <site name="reference" pos="0 0 0.25"/>
+    <light pos="0 0 2" dir="0 0 -1"/>
+    <body name="arm" pos="-0.25 0.25 0">
+      <joint pos="0 0 0" type="ball"/>
+      <geom size="0.01 0.01 0.125" pos="0 0 0.125" quat="0 1 0 0" type="box"/>
+      <body pos="0 0 0.25">
+        <joint pos="0 0 0" type="ball"/>
+        <geom size="0.01 0.01 0.125" pos="0.125 0 0" quat="0.707107 0 -0.707107 0" type="box"/>
+        <body pos="0.25 0 0">
+          <joint pos="0 0 0" type="ball"/>
+          <geom size="0.01 0.01 0.1" pos="0 -0.1 0" quat="0.707107 -0.707107 0 0" type="box"/>
+          <body pos="0 -0.2 0">
+            <joint pos="0 0 0" type="ball"/>
+            <geom size="0.01 0.01 0.025" pos="0 -0.025 0" quat="0.707107 -0.707107 0 0" type="box"/>
+            <site name="end_effector" pos="0 -0.05 0"/>
+          </body>
+        </body>
+      </body>
+    </body>
+  </worldbody>
+  <actuator>
+    <general name="x" class="translation" site="end_effector" refsite="reference"/>
+    <general name="y" class="translation" site="end_effector" refsite="reference" gear="0 1 0 0 0 0"/>
+    <general name="z" class="translation" site="end_effector" refsite="reference" gear="0 0 1 0 0 0"/>
+    <general name="rx" class="rotation" site="end_effector" refsite="reference" gear="0 0 0 1 0 0"/>
+    <general name="ry" class="rotation" site="end_effector" refsite="reference" gear="0 0 0 0 1 0"/>
+    <general name="rz" class="rotation" site="end_effector" refsite="reference" gear="0 0 0 0 0 1"/>
+  </actuator>
+</mujoco>

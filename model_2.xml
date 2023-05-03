@@ -1,0 +1,17 @@
+<mujoco>
+<option timestep="0.005" gravity="0 0 -9.81" integrator="RK4"/>
+  <asset>
+    <texture name="grid" type="2d" builtin="checker" rgb1=".1 .2 .3"
+     rgb2=".2 .3 .4" width="300" height="300"/>
+    <material name="grid" texture="grid" texrepeat="8 8" reflectance=".2"/>
+  </asset>
+  <worldbody>
+    <geom size="1 1 .01" type="plane" material="grid"/>
+    <light name="top" pos="0 0 0.6"/>
+    <body name="box_and_sphere" pos="0 0 0.5" euler="0 0 0">
+      <freejoint/>
+      <geom name="red_box" type="box" size=".2 .2 .2" rgba="1 0 0 1"/>
+      <geom name="green_sphere" pos=".2 .2 .2" size=".1" rgba="0 1 0 1"/>
+    </body>
+  </worldbody>
+</mujoco>
