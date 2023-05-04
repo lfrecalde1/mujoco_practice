@@ -7,3 +7,363 @@ WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Ti
 Sat Apr 29 10:45:15 2023
 WARNING: Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 2.3130.
 
+Thu May  4 11:57:00 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 11:58:33 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 11:58:34 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 10. The simulation is unstable. Time = 0.0050.
+
+Thu May  4 11:58:34 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0050.
+
+Thu May  4 12:00:10 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 12:01:36 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 12:02:21 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 12:02:22 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 6. The simulation is unstable. Time = 0.0010.
+
+Thu May  4 12:03:33 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 12:03:34 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 6. The simulation is unstable. Time = 0.0010.
+
+Thu May  4 12:03:50 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 12:04:50 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 12:08:17 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 12:10:07 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 12:12:20 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 12:14:44 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 12:16:35 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 12:37:55 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 12:39:50 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 12:40:02 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 12:44:20 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 12:45:12 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:17:44 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:22:29 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:24:30 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:26:53 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:27:15 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:29:06 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:30:18 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:31:22 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:32:54 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:33:39 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:34:28 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:35:10 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:35:55 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:37:04 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:43:35 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:44:07 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:46:39 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:48:33 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:51:08 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:51:46 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:52:26 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:54:44 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 17:55:34 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 19. The simulation is unstable. Time = 18.1440.
+
+Thu May  4 17:57:09 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:01:59 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:03:07 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:05:32 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:06:34 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:08:14 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:08:37 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:09:28 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:13:17 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:13:18 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 51. The simulation is unstable. Time = 0.3940.
+
+Thu May  4 18:14:01 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:14:03 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 6. The simulation is unstable. Time = 1.4900.
+
+Thu May  4 18:14:20 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:14:21 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 8. The simulation is unstable. Time = 0.9860.
+
+Thu May  4 18:15:08 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:16:16 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:16:33 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:16:50 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:17:18 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:17:48 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:18:16 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:18:53 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:30:38 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:33:47 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:34:56 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:35:03 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 6. The simulation is unstable. Time = 2.8640.
+
+Thu May  4 18:35:37 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:36:06 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:36:13 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:36:21 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:36:56 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:37:13 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:37:22 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:37:32 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:39:02 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:39:28 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:39:45 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:39:56 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:40:12 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:40:48 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:41:25 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:42:11 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:42:38 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:43:03 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:43:20 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:44:26 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:46:29 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:46:50 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:47:24 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:47:25 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 65. The simulation is unstable. Time = 0.0050.
+
+Thu May  4 18:47:36 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:47:37 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 6. The simulation is unstable. Time = 0.0100.
+
+Thu May  4 18:47:47 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:48:21 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:49:31 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:50:23 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:50:50 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:50:52 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 45. The simulation is unstable. Time = 0.3860.
+
+Thu May  4 18:51:06 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:51:08 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 91. The simulation is unstable. Time = 0.3840.
+
+Thu May  4 18:51:20 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:51:43 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 6. The simulation is unstable. Time = 11.2390.
+
+Thu May  4 18:52:16 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:54:17 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:55:55 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:56:35 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:57:02 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:57:37 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 18:59:10 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 19:00:51 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 19:01:46 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 19:02:16 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 19:03:27 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 19:06:09 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
+Thu May  4 19:11:22 2023
+WARNING: The "rope" composite type is deprecated. Please use "cable" instead.
+
